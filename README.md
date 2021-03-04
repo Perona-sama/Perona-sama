@@ -1,4 +1,6 @@
-[Perona](https://images4.alphacoders.com/643/643493.jpg)
+<p align="center">
+  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
+</p>
 <h1>Hi 👋 I'm Perona</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Perona-sama&label=Profile%20views&color=0e75b6&style=plastic" alt="Perona-sama" /> </p>
 
