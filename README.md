@@ -1,4 +1,4 @@
-[Perona](https://telegra.ph/file/c1dc3afb111dde0bd5cbf.jpg)
+[Perona](https://github.com/Perona-sama/Perona-sama/blob/main/4be576ec-675c-468f-b602-7e8f4d8f03b4.jpeg)
 <h1>Hi 👋 I'm Perona</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Perona-sama&label=Profile%20views&color=0e75b6&style=plastic" alt="Perona-sama" /> </p>
 
