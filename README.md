@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
+  <img src="https://telegra.ph/file/c1dc3afb111dde0bd5cbf.jpg">
 </p>
 <h1>Hi 👋 I'm Perona</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Perona-sama&label=Profile%20views&color=0e75b6&style=plastic" alt="Perona-sama" /> </p>
